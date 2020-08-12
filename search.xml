@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>说明</title>
+    <url>/2020/08/12/%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<p>这是我的个人博客主要用来记录我的学习生涯，我会将我的学习经验以及资料上传，欢迎大家多多访问、讨论，我的qq 1097418567。</p>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>测试</title>
     <url>/2020/08/12/%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><a id="more"></a>
@@ -18,19 +30,6 @@
 <blockquote>
 <p>这是引用的</p>
 </blockquote>
-]]></content>
-      <categories>
-        <category>杂项</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>说明</title>
-    <url>/2020/08/12/%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<p>这是我的个人博客，我会将我的学习经验以及资料上传，博客没有开启发帖功能只能我个人发帖，欢迎大家多多访问评论。</p>
-<p><strong>芜湖起飞！</strong><br><img src="/images/timg1.jpg" class="full-image"></p>
 ]]></content>
       <categories>
         <category>杂项</category>
