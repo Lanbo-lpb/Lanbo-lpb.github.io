@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>说明</title>
-    <url>/2020/08/12/%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<p>这是我的个人博客主要用来记录我的学习生涯，我会将我的学习经验以及资料上传，欢迎大家多多访问、讨论，我的qq 1097418567。</p>
-]]></content>
-      <categories>
-        <category>杂项</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>测试</title>
     <url>/2020/08/12/%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><a id="more"></a>
@@ -30,6 +18,20 @@
 <blockquote>
 <p>这是引用的</p>
 </blockquote>
+]]></content>
+      <categories>
+        <category>杂项</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>说明</title>
+    <url>/2020/08/12/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</url>
+    <content><![CDATA[<p>首先欢迎大家访问我的个人博客，这个博客主要来记录和分享，我会将我学习路上遇到的问题，解决思路，个人总结等写到这里，也会将我写的各种项目放在这，当然现在还是个纯菜鸟。。。。<br>文章会同步到CSDN。</p>
+<hr>
+<p>我的CSND主页：<a href="https://blog.csdn.net/qq_46039699">https://blog.csdn.net/qq_46039699</a><br>我的GitHub主页：<a href="https://github.com/LanBo-lpb">https://github.com/LanBo-lpb</a><br>我的B站主页：<a href="https://space.bilibili.com/17323669">https://space.bilibili.com/17323669</a> (我居然还是个音乐up主)<br>我的个人QQ：1097418567<br>我的个人微信：lpb1097418567</p>
 ]]></content>
       <categories>
         <category>杂项</category>
